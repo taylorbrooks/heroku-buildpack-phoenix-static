@@ -1,2 +1,2 @@
-brunch build --production
+gulp build:dist
 mix phoenix.digest
